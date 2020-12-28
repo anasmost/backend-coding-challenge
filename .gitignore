@@ -117,3 +117,4 @@ dist
 
 #secret local files
 config/*.json
+ztrash.js
